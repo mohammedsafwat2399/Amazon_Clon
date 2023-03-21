@@ -1,4 +1,4 @@
-# Live Preview: https://clone-dffaf.web.app/
+# Live Preview: https://clone-c6c1d.web.app/
 
 Coded by - [kareem shimes]
 ![](/Capture.jpg)
