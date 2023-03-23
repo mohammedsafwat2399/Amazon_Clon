@@ -1,4 +1,4 @@
-# Live Preview: https://clone-c6c1d.web.app/
+# Live Preview: https://luxury-pudding-2cd678.netlify.app/
 
 Coded by - [kareem shimes]
 ![](/Capture.jpg)
